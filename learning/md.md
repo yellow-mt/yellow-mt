@@ -38,7 +38,7 @@ h1|h2
 -|-
 b1|b2
 
-???+ choose
+???+ note "choose"
   ===1
   choosed **1**
   ===2
