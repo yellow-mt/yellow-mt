@@ -33,3 +33,15 @@ text
 ```cpp
 //long code
 ```
+
+h1|h2
+-|-
+b1|b2
+
+???- choose
+  ===1
+  choosed **1**
+  ===2
+  choosed **2**
+  ===3
+  choosed **3**
