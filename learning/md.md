@@ -49,3 +49,8 @@ b1|b2
     
   choosed **3**
  -->
+<details><summary>sb</summary>
+
+# 1
+## 2
+</details>
