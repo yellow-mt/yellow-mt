@@ -9,8 +9,8 @@
 (上面的都不重要)
 最**重要**的是**我是傻逼**!
 
-yellow-mt/yellow-mt is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<!--yellow-mt/yellow-mt is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#You can click the Preview link to take a look at your changes.-->
 
 # code
 ## C++
@@ -29,6 +29,6 @@ int main(){
 ```py
 if __name__=="__main__":
 	N=100001
-	for i in range(N):
+	for _ in range(N):
 		print('我是傻逼',end='')
 ```
